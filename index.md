@@ -1,6 +1,6 @@
 # GEE
 
-This is the website for Gee. Gee people can be found here. They are just gonna geeing it up.
+This is the website for Gee. Gee people can be found here. They are just gonna gee it up.
 
 ## Positions
 
